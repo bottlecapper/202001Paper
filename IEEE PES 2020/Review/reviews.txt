@@ -1,0 +1,21 @@
+Thank you for your submission to the PESGM 2020!
+
+Submission ID 20PESGM0286 has been reviewed and a revision is requested. Please revise your paper and submit the revision, by January 28, 2020. http://submissions2.mirasmart.com/PESGM2020/.
+
+Please note, a revision request does not guarantee acceptance.
+
+Recommended Revisions:
+Reviewer 1:
+Comments: 1. Figure 6 shows actual and predicted wind power on farm 2. The unit of y axis is not given. I assume it is MW. Since the base line of wind power is less than 1MW, I do not think the proposed method shows its advantage for predicting the wind power accurately.
+
+2. The unit of RMSE and MAE are also not given in Tables IV and V.
+
+Reviewer 2:
+Comments: The paper proposes a new hybrid model that predicts wind power generation based on meteorological forecast. The proposed hybrid model contains three layers which take account of wind speed, turbine inertia, seasonality, and wind farm location. The following comments/questions are raised for the authors' consideration:1. On the second page of the paper, the authors argue that "A major challenge of this problem comes from the instability of wind power generation. Another challenge part is the time-series nature of the data. Both problems are addressed by...". No explanation is given regarding how the "instability" and "time series" nature of the data present a challenge. Some elaboration is desirable to help audience appreciate the challenge being solved and the effectiveness of the prediction tool developed by the authors. The reviewer assumes that the authors mean to say "variability" of wind power generation. If this is the case, "instability" would be a mis-use and refer to something else in the domain of power system stability.2. In Fig. 2, notations "f0, f1, f6..." are used multiple times across the paper but lacks description. Please provide a definition of the notations.
+
+Sincerely,
+
+Committee: Track (AMPS) Big Data Analytics
+Yannan Sun
+
+Yannan.Sun@oncor.com
